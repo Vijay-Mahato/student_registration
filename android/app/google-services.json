@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729373431880",
+    "project_id": "registration-eeac1",
+    "storage_bucket": "registration-eeac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729373431880:android:b5e4ea4080393cb24ca07d",
+        "android_client_info": {
+          "package_name": "com.example.student_registration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABbbty3ZkGX5M1fuC0CCi9I4-F4w0Wo-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
